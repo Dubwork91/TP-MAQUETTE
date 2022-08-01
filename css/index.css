@@ -87,18 +87,15 @@
 
   .paragraphefooter{
     text-align: center;
+    margin-left: -10vw ;
+    margin-right: -10vw ;
+  }
+
+.p1,.p2{
+  text-decoration: underline;
+  color:rgb(189, 41, 189);
 }
-.under1,.under2,.under4{
-    text-decoration: underline;
-    color:rgb(189, 41, 189);
-}
-.under3{
-    text-decoration: underline ;
-    color: blue;
-}
-.p5,.p6{
-    font-size: x-small;
-}
-.p6{
-    text-align: center;
+.p3{
+  text-decoration: underline ;
+  color: blue;
 }
